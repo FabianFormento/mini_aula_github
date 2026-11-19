@@ -69,7 +69,7 @@ A ideia é simples: o grupo inteiro trabalha no mesmo repositório, na branch `m
 <!-- PRINT 03 (site): tela "Create a new repository" do github.com, com o nome preenchido, "Add a README file" marcado e .gitignore = Java. -->
 ![Criando o repositório no site](imagens/03-novo-repositorio.png)
 
-2. Convide os colegas (e a professora) em **Settings → Collaborators → Add people**.
+2. Convide os colegas em **Settings → Collaborators → Add people**.
 
 <!-- PRINT 04 (site): Settings > Collaborators do repositório, com o botão "Add people" e pelo menos um convite pendente. -->
 ![Convidando colaboradores](imagens/04-colaboradores.png)
@@ -167,7 +167,7 @@ No GitHub Desktop, a aba **Changes** mostra os arquivos que você alterou. À di
 | Corrige cálculo do total no Pedido | asdf |
 | Remove método duplicado em Produto | agora vai |
 
-O Summary é o que a professora (e o grupo) vai ler para entender o que você fez.
+O Summary é o que o grupo vai ler para entender o que você fez.
 
 ### 5. Enviar para o GitHub (Push)
 
